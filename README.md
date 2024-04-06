@@ -45,5 +45,5 @@ Regression models are used for predicting continuous values:
 - **Random Forest Regressor**
 - **Linear Regressor**
 
-Training and testing datasets are split into X and Y, where Y represents the SalePrice column, and the remaining columns are X.
+Training and testing datasets are split into X and Y, where Y represents the SalePrice column, and the remaining columns are X. 
 
